@@ -1,0 +1,16 @@
+Создаем программу в C#
+Открываем поисковик и пишем "Приложение WPF(.NET Framework)"
+Даем название "FurnitureManagementSystem"
+
+В самом верху выбираем Средства -> Подключиться к Базе Данных
+Вводим имя сервера (sql-class) и ниже в пункте Введите имя Базы Данных пишем FurnitureManufactoring (программа предложит ее сама). Нажимаем ОК
+Переходим в App.Config и пишем 
+<connectionStrings>
+	<add name="FurnitureDbConnection"
+         connectionString="Data Source=.;Initial Catalog=FurnitureManufacturing;Integrated Security=True"
+         providerName="System.Data.SqlClient"/>
+</connectionStrings>
+Нажимаем на проект и создаем файл img туда перекидываем наш логотип logo.ico (изначально называется Комфорт.ico)
+Далее нажимаем на название нашего проекта правой кнопкой мыши Добавить -> Ссылка.
+Там ищем System.Configuration и ставим галочку.
+После того, как прописали MainWindow.xaml и MainWindow.xaml.cs Нажимаем на название проекта правой кнопко мыши, Добавить -> Окно(WPF) и даем название "ProductEditDialog".
