@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurnitureManagementSystem", "FurnitureManagementSystem\FurnitureManagementSystem.csproj", "{706CAEC0-E3F3-4A15-A81F-0F4DF69A3285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{706CAEC0-E3F3-4A15-A81F-0F4DF69A3285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706CAEC0-E3F3-4A15-A81F-0F4DF69A3285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706CAEC0-E3F3-4A15-A81F-0F4DF69A3285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706CAEC0-E3F3-4A15-A81F-0F4DF69A3285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {997EE1E8-09B0-4AD3-B453-22EBB85C6EE9}
+	EndGlobalSection
+EndGlobal

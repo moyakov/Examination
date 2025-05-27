@@ -1,0 +1,17 @@
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\obj\Debug\FurnitureManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\obj\Debug\App.g.cs
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\obj\Debug\FurnitureManagementSystem_MarkupCompile.cache
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\obj\Debug\FurnitureManagementSystem_MarkupCompile.lref
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\obj\Debug\ProductEditDialog.g.cs
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\bin\Debug\FurnitureManagementSystem.exe.config
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\bin\Debug\FurnitureManagementSystem.exe
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\bin\Debug\FurnitureManagementSystem.pdb
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\obj\Debug\MainWindow.baml
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\obj\Debug\ProductEditDialog.baml
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\obj\Debug\FurnitureManagementSystem.g.resources
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\obj\Debug\FurnitureManagementSystem.Properties.Resources.resources
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\obj\Debug\FurnitureManagementSystem.csproj.GenerateResource.cache
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\obj\Debug\FurnitureManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\obj\Debug\FurnitureManagementSystem.exe
+C:\Users\Ruslan\source\repos\FurnitureManagementSystem\FurnitureManagementSystem\obj\Debug\FurnitureManagementSystem.pdb
